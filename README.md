@@ -30,6 +30,6 @@ ImagePrinter.exe --resize=64x64 C:\CoolImage.png
 
 ## Demos
 
-<img src="https://media.discordapp.net/attachments/752064255637061735/851561456691707934/Cm6YaEM.gif" />
+<img src="https://i.imgur.com/LAU28SM.gif" />
 <br><br>
-<img src="https://media.discordapp.net/attachments/752064255637061735/851566940153315338/QTW4Ohjg2y.gif" />
+<img src="https://i.imgur.com/Cm6YaEM.gif" />
