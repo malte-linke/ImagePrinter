@@ -31,5 +31,5 @@ ImagePrinter.exe --resize=64x64 C:\CoolImage.png
 ## Demos
 
 <img src="https://i.imgur.com/LAU28SM.gif" />
-<br><br>
+<br>
 <img src="https://i.imgur.com/Cm6YaEM.gif" />
